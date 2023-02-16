@@ -29,7 +29,7 @@ a {
 
 /* Global Rules  */
 section {
-    max-width: 300px;
+    max-width: 350px;
     background-color: var(--White);
     padding: 1rem;
     border-radius: 15px;
@@ -68,17 +68,16 @@ p {
 }
 
 h1 {
-    font-size: 1.18rem;
+    font-size: 1.3rem;
     color: var(--Dark-blue);
 }
 
 p {
-    font-size: 0.8rem;
     color: var(--Grayish-blue);
 }
 
 footer {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     text-align: center;
     color: var(--Dark-blue);
 }
